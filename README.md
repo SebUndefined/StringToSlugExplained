@@ -1,8 +1,8 @@
-# StringToSlugExplained
+# Convert a string to a slug in PHP
 
 This is a simple function that allowed you to convert a string in a usable slug for your routes (pages, articles, products...)
 
-Please note that most of the framwork implement this kind of function. This repo is just here for education. 
+Please note that most of the framework implement this kind of function. This repo is just here for education. 
 
 # Before to save the slug in your DB
 
