@@ -1,5 +1,5 @@
 <?php
-protected function cleanString($string)
+protected function stringToSlugExplained($string)
 	{
     		//Convert the characteres in eligible HTML one. The way of encoding is UTF-8 and we say it at the third argument.
     		//We include the quotes (simple and double) by the second argument (ENT_QUOTES)
