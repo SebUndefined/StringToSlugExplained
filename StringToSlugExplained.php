@@ -1,3 +1,4 @@
+<?php
 protected function cleanString($string)
 	{
     //Convert the characteres in eligible HTML one. The way of encoding is UTF-8 and we say it at the third argument.
@@ -17,3 +18,4 @@ protected function cleanString($string)
     //And !!!!! We just return the string :)
 		return $string;
 	}
+?>
